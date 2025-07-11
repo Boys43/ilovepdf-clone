@@ -1,0 +1,5 @@
+
+Flask
+pdf2docx
+PyPDF2
+werkzeug
